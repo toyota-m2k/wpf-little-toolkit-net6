@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>toyota-m2k@github.com</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <readme>docs\README.md</readme>
+    <!--<projectUrl>http://project_url_here_or_delete_this_line/</projectUrl>-->
+    <!--<iconUrl>http://icon_url_here_or_delete_this_line/</iconUrl>-->
+    <description>a little library for .NET 6 x  WPF application.</description>
+    <!--<releaseNotes>Summary of changes made in this release of the package.</releaseNotes>-->
+    <copyright>Copyright (c) 2022 toyota-m2k. All rights reserved.</copyright>
+    <tags>WPF Utility</tags>
+    <dependencies>
+      <dependency id="System.Json" version="4.7.1" />
+      <dependency id="WindowsAPICodePack" version="1.1.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="..\README.md" target="docs\" />
+  </files>
+</package>
