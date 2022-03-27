@@ -6,6 +6,8 @@ Someone (<- that's me) will be a little happier with this.
 ## CircleProgressView
 
   "Progress Ring" with a percent label, customizable from xaml.
+  This implementation comes from [toyota-m2k/CircularProgressBar](https://github.com/toyota-m2k/CircularProgressBar).
+  The implementaton for iOS is in it, and for Android is in [toyota-m2k/android-viewex](https://github.com/toyota-m2k/android-viewex).
  
 ## PathView
 
@@ -18,7 +20,7 @@ Someone (<- that's me) will be a little happier with this.
 
 ## NumericTextBox
 
-  TextBox which accept only numeric character.
+  TextBox which accepts only numeric character.
  
 ## CheckButton
 
